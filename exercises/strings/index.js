@@ -1,5 +1,5 @@
 var fullName = 'Kevin Akahoshi';
-// No-No 👎🏻
-fullName = 10;
-// Okay 👍🏻
-fullName = 'Kevin Michael Akahoshi';
+// Good 👍🏻
+// fullName = 'Kevin Michael Akahoshi';
+// Bad 👎🏻
+// fullName = 10;
